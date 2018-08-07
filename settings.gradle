@@ -1,0 +1,2 @@
+include ':java:lexer'
+project(':java:lexer').name = 'java-lexer'
