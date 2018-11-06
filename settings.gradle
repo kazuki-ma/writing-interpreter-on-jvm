@@ -1,2 +1,5 @@
 include ':java:lexer'
 project(':java:lexer').name = 'java-lexer'
+
+include ':kotlin:lexer'
+project(':kotlin:lexer').name = 'kotlin-lexer'
